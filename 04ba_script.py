@@ -1,0 +1,1 @@
+/home/users/kjyi/Library/ysj/SNP_annotation/01_SNPannotate_ju_withGeneStrand.py
