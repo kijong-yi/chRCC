@@ -17,4 +17,9 @@ fastqc -o qc --noextract --f fastq
 
 # md5sum, fastqc checked
 
+echo testing
+date
+cat <<EOF
+ls
+EOF
 
